@@ -1,0 +1,11 @@
+﻿@code {
+    [Parameter]
+    public string? Text { get; set; }
+
+    private void OnClick()
+    {
+        Console.WriteLine("Button clicked!");
+    }
+}
+
+<button @onclick="OnClick">@Text</button>

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\components\\jsoncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\components\\jsoncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\components\\securecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\components\\securecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\components\\securecomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\components\\securecomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\components\\twowaydatabindingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\components\\twowaydatabindingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\components\\formcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\components\\formcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\components\\buttoncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\components\\buttoncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\components\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\components\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\ziggyrafiq.interactiveblazorwebapps.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\ziggyrafiq.interactiveblazorwebapps.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Models\\Customer.cs",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Models\\Customer.cs",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T18:04:37.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\Calculator.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\Calculator.cs",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\Calculator.cs",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:57:25.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonComponent.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\JsonComponent.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\JsonComponent.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\JsonComponent.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\JsonComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T17:55:12.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecureComponent.razor.cs",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\SecureComponent.razor.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\SecureComponent.razor.cs",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\SecureComponent.razor.cs",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\SecureComponent.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:41:20.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecureComponent.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\SecureComponent.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\SecureComponent.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\SecureComponent.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\SecureComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T17:40:45.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Services\\EncryptionService.cs",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Services\\EncryptionService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:36:21.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TwoWayDataBindingComponent.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\TwoWayDataBindingComponent.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\TwoWayDataBindingComponent.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\TwoWayDataBindingComponent.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\TwoWayDataBindingComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T17:30:00.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormComponent.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\FormComponent.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\FormComponent.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\FormComponent.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\FormComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T17:29:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Pages\\Home.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Pages\\Home.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Pages\\Home.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T17:16:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonComponent.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\ButtonComponent.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\ButtonComponent.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\Components\\ButtonComponent.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Components\\ButtonComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T17:25:58.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ZiggyRafiq.InteractiveBlazorWebApps",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T17:19:58.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\App.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\App.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\App.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T17:16:28.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

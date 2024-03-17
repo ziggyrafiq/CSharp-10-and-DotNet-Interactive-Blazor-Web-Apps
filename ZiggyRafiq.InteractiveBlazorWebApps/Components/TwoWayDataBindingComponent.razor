@@ -1,0 +1,6 @@
+﻿@*  Example of two-way data binding in Blazor *@
+@code {
+    private string userName = "Ziggy";
+}
+<input type="text" @bind="userName" />
+<p>Hello, @userName!</p>

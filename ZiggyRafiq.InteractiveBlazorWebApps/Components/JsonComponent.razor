@@ -1,0 +1,22 @@
+﻿@* the file is inside the folder name Compents and the file name is JsonCompent.razor *@
+@using Newtonsoft.Json;
+@using ZiggyRafiq.InteractiveBlazorWebApps.Models;
+
+
+@code {
+ 
+        private string? serializedData;
+
+        protected override void OnInitialized()
+        {
+            var data = new Customer { Name = "Lisa", Age = 31, Email = "Lisa.Smith@domain.com" };
+            serializedData = JsonConvert.SerializeObject(data);
+        }
+
+ 
+}
+<p>Serialized Object: @serializedData</p>
+
+
+
+

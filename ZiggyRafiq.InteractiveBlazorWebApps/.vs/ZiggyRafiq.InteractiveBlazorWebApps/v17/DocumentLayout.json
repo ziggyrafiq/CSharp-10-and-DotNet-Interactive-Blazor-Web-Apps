@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\ziggyrafiq.interactiveblazorwebapps\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\ziggyrafiq.interactiveblazorwebapps\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|e:\\github\\articles-posts\\blazor\\csharp-10-and-dotnet-interactive-blazor-web-apps\\ziggyrafiq.interactiveblazorwebapps\\ziggyrafiq.interactiveblazorwebapps\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D713C3-EFDD-4B18-9421-FC81FBAED0CF}|ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps.csproj|solutionrelative:ziggyrafiq.interactiveblazorwebapps\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T18:55:58.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Layout\\MainLayout.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T18:55:53.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ZiggyRafiq.InteractiveBlazorWebApps\\Pages\\Home.razor",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\ZiggyRafiq.InteractiveBlazorWebApps\\Pages\\Home.razor",
+              "RelativeToolTip": "ZiggyRafiq.InteractiveBlazorWebApps\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T18:54:33.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

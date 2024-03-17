@@ -1,0 +1,74 @@
+﻿@using Newtonsoft.Json;
+@using ZiggyRafiq.InteractiveBlazorWebApps.Components
+@page "/"
+@code {
+
+    [Inject]
+    private IJSRuntime JSRuntime { get; set; }
+
+    private string message = "Hello from Ziggy Rafiq, This is  Blazor WebAssembly!";
+    private string title = "Title for Blazor WebAssembly";
+
+    private Calculator calculator = new Calculator();
+    private int result;
+
+    private void Calculate() {
+        result = calculator.Add(5, 3);
+    }
+
+    private async Task CallJavaScriptFunction() => await JSRuntime.InvokeVoidAsync("alert", "Hello from Ziggy Rafiq!");
+
+    private string serializedObject;
+
+    protected override void OnInitialized()
+    {
+        var obj = new { Name = "Lisa", Age = 35 };
+        serializedObject = JsonConvert.SerializeObject(obj);
+    }
+
+    private int counter = 0;
+
+    private void IncrementCounter()
+    {
+        counter++;
+    }
+
+
+}
+
+
+<PageTitle>@title</PageTitle>
+
+<h1>@message</h1>
+
+<button @onclick="Calculate">Add</button>
+<p>Result: @result</p>
+
+<button @onclick="CallJavaScriptFunction">Call JavaScript</button>
+
+<p>Serialized Object: @serializedObject</p>
+
+<button @onclick="IncrementCounter">Click me</button>
+<p>Counter: @counter</p>
+
+ <ButtonComponent Text="Click me" />
+
+@* Example of using two-way data binding for numeric input *@
+<input type="number" @bind="counter" />
+<p>Counter: @counter</p>
+
+
+ @* Example of two-way data binding with a checkbox *@
+<input type="checkbox" @bind="isToggleEnabled" />
+@if (isToggleEnabled)
+{
+    <p>Toggle is enabled</p>
+}
+else
+{
+    <p>Toggle is disabled</p>
+}
+
+@code {
+    private bool isToggleEnabled = false;
+}

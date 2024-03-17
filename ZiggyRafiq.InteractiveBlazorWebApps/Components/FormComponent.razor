@@ -1,0 +1,14 @@
+﻿@code {
+    private string? inputValue;
+
+    private void SubmitForm()
+    {
+        
+        Console.WriteLine("Form submitted with value: " + inputValue);
+        
+    }
+}
+<input type="text" @bind="inputValue" />
+<button @onclick="SubmitForm">Submit</button>
+
+<p>You entered: @inputValue</p>

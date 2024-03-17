@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\obj\\Debug\\net8.0\\compressed\\ezymw67tqf.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ZiggyRafiq.InteractiveBlazorWebApps.styles.css",
+      "PackagePath": "staticwebassets\\ZiggyRafiq.InteractiveBlazorWebApps.styles.css"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\GitHub\\Articles-Posts\\Blazor\\CSharp-10-and-DotNet-Interactive-Blazor-Web-Apps\\ZiggyRafiq.InteractiveBlazorWebApps\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ZiggyRafiq.InteractiveBlazorWebApps.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ZiggyRafiq.InteractiveBlazorWebApps.props",
+      "PackagePath": "build\\ZiggyRafiq.InteractiveBlazorWebApps.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ZiggyRafiq.InteractiveBlazorWebApps.props",
+      "PackagePath": "buildMultiTargeting\\ZiggyRafiq.InteractiveBlazorWebApps.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ZiggyRafiq.InteractiveBlazorWebApps.props",
+      "PackagePath": "buildTransitive\\ZiggyRafiq.InteractiveBlazorWebApps.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
